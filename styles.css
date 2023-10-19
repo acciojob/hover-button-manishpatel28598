@@ -9,6 +9,6 @@
 }
 #btn:hover{
 	background-color: yellow;
-	font-color: back;
+	color:rgb(0, 0, 0);
 	border-radius: 30px;
 }
